@@ -1,0 +1,12 @@
+.classpath
+.project
+
+
+
+# Folders to ignore
+.settings
+dist
+bin
+target
+bower_components
+node_modules
