@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 /**
  * BasicValidate annotation.<br>
  * BasicValidator search this in class annotation, and start validate each field
- * validate, so do not forget attach this class of your entity.<br>
+ * validate, so do not forget attach this to class of your entity.<br>
  * TODO validate error message should be configurable in this.
  * 
  * @see jp.co.developer.research.validate.impl.BasicValidator

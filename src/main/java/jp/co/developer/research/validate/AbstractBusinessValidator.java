@@ -1,7 +1,7 @@
 package jp.co.developer.research.validate;
 
 /**
- * When you want your own validator , implement this
+ * When you want to define your own validator , implement this
  *
  * @param <T> validate target entity
  */

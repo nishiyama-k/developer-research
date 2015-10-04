@@ -15,6 +15,11 @@ public class ValidatorException extends Exception {
 		this.errorList = errorList;
 	}
 
+	/**
+	 * Get ValidateMessage list as a result of validate
+	 * 
+	 * @return if empty, no validate error
+	 */
 	public List<ValidateMessage> getErrorList() {
 		return this.errorList;
 	}

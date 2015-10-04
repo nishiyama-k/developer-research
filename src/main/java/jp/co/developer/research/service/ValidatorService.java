@@ -6,7 +6,7 @@ import jp.co.developer.research.validate.Validator;
 import jp.co.developer.research.validate.ValidatorException;
 
 /**
- * This service provide you to validate entity functions<br>
+ * This service provide you to validate entity<br>
  * When you want to BasicValidate to your own entity, annotate BasicValidate annotation at your entity.<br>
  * @see jp.co.developer.research.validate.annotation.BasicValidate
  *
@@ -14,7 +14,8 @@ import jp.co.developer.research.validate.ValidatorException;
 public interface ValidatorService {
 
 	/**
-	 * Validate only BasicValidate
+	 * Validate only BasicValidate<br>
+	 * Currently this is not used.
 	 * 
 	 * @param e
 	 * @throws ValidatorException
