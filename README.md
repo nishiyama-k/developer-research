@@ -4,11 +4,11 @@ this is sample project of spring boot.
 
 ## Development environment
 
-Java8
-Spring boot
-Spring Tool Suite [here](http://spring.io/tools)
-npm 2.14.4
-maven
+- Java8
+- Spring boot
+- Spring Tool Suite [here](http://spring.io/tools)
+- npm 2.14.4
+- maven
 
 ## Quick start
 
