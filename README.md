@@ -2,6 +2,10 @@
 
 this is sample project of spring boot.
 
+## Heroku
+- [Heroku app](https://developer-research.herokuapp.com/)
+- mvn clean heroku:deploy
+
 ## Development environment
 
 - Windows7
