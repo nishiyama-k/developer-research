@@ -42,5 +42,4 @@ you can find target/developer-research-0.0.1-SNAPSHOT.jar
 
 - Many literal strings are injected directly sources. Should be transfered in any storage.
 - Storage function is just mock, keep them in cache only.
-- Gruntfile.js is duty, you can use only grunt:less.
 
